@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Divyani/Console1/bin/Debug
+/Divyani/.vs/Divyani/v14
+/Divyani/Console1/obj/Debug
+/ConsoleApplication1/.vs/ConsoleApplication1/v14
+/ConsoleApplication1/ConsoleApplication1/bin/Debug
+/ConsoleApplication1/ConsoleApplication1/obj/Debug
